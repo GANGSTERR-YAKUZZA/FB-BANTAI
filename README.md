@@ -7,7 +7,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/GANGSTERR-YAKUZZA/FB-BANTAI
+$ git clone https://github.com/GANGSTERR-YAKUZZA/FB-BANTAI
 
 $ cd FB-BANTAI
 
