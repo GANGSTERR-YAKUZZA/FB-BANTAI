@@ -1,5 +1,4 @@
-# BANTAI MARK ZUCKERBERG
-TOOLS NEW UPLOAD 2024
+# TOOLS HEX EFB
 
 $ pkg update && pkg upgrade
 
@@ -7,19 +6,19 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/GANGSTERR-YAKUZZA/FB-BANTAI
+$ git clone https://github.com/MOCH-NANGG/FB-BOOS
 
-$ cd FB-BANTAI
+$ cd FB-BOOS
 
-$ python Gafi_v3.py
+$ python BOOS.py
 
 
 # CARA UPDATE
 
 $ cd
 
-$ cd FB-BANTAI
+$ cd FB-BOOS
 
 $ git pull
 
-$ python Gafi_v3.py
+$ python BOOS.py
