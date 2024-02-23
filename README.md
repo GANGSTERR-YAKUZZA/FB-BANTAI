@@ -1,10 +1,12 @@
 # TOOLS HEX EFB
 
-$ pkg update && pkg upgrade
+$ apt update -y && apt upgrade -y
 
-$ pkg install python
+$ apt install python
 
-$ pkg install git
+$ pkg install git python-pip
+
+$ pkg install play-audio
 
 $ git clone https://github.com/MOCH-NANGG/FB-BOOS
 
